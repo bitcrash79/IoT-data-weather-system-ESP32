@@ -23,7 +23,7 @@ The DHT22 sensor measures temperature and humidity from the surrounding environm
 
 ## Circuit Diagram
 
-![Circuit](Circuit(2).png)
+![Circuit](Circuit.png)
 
 ## Wokwi Simulation
 
